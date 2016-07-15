@@ -22,3 +22,16 @@ August 2012 - Jan 2014
 I assisted customers understand the concept of Google’s newest products and educate them on the features of the products. I assisted clients with the search for new hardware and helped them make informed decisions whether it was with Google products or not.
 
 
+Skills
+Linux Server Administration
+Windows Server Administration
+AWS
+Serverless Applications
+Python
+PHP
+NodeJS
+BASH
+SQL
+SOAP 
+REST
+Git
