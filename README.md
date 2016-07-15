@@ -1,3 +1,29 @@
+# Christopher Martinez
+----------------------
+
+## Previous Roles: 
+-   [Software Support Analyst](https://github.com/cmtzco/cmtzco#software-support-analyst---reddwerks)
+-   [Developer](https://github.com/cmtzco/cmtzco#developer---scriptilabs)
+-   [Software Support](https://github.com/cmtzco/cmtzco#software-support---bigcommerce)
+-   [System Administrator](https://github.com/cmtzco/cmtzco#system-administrator---hostgator)
+-   [Google Marketing Specialist](https://github.com/cmtzco/cmtzco#google-marketing-specialist---marketstar)
+
+
+## Skills
+-   Linux Server Administration
+-   Windows Server Administration
+-   Serverless Applications
+-   Python
+-   NodeJS
+-   BASH
+-   SOAP 
+-   REST
+-   AWS
+-   PHP
+-   SQL
+-   Git
+
+
 ## Software Support Analyst - Reddwerks
 ### August 2015 - Present
 Role required advanced troubleshooting of the software as well as the servers that it ran on.  Servers were both Windows and Linux and required management of the services and resources.  Occasionally scripts were created to help automate common tasks that the team did to manage the servers.  Built additional scripts to help with team time entry, automate tasks, and aggregate logs.
@@ -22,16 +48,3 @@ I would assist customers with a variety of issues from creating MySQL database u
 I assisted customers understand the concept of Google’s newest products and educate them on the features of the products. I assisted clients with the search for new hardware and helped them make informed decisions whether it was with Google products or not.
 
 
-## Skills
-Linux Server Administration
-Windows Server Administration
-AWS
-Serverless Applications
-Python
-PHP
-NodeJS
-BASH
-SQL
-SOAP 
-REST
-Git
