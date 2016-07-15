@@ -1,13 +1,11 @@
 # Christopher Martinez
 ----------------------
-
 ## Previous Roles: 
 -   [Software Support Analyst](https://github.com/cmtzco/cmtzco#software-support-analyst---reddwerks)
 -   [Developer](https://github.com/cmtzco/cmtzco#developer---scriptilabs)
 -   [Software Support](https://github.com/cmtzco/cmtzco#software-support---bigcommerce)
 -   [System Administrator](https://github.com/cmtzco/cmtzco#system-administrator---hostgator)
 -   [Google Marketing Specialist](https://github.com/cmtzco/cmtzco#google-marketing-specialist---marketstar)
-
 
 ## Skills
 -   Linux Server Administration
