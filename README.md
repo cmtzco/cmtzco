@@ -21,7 +21,7 @@
 -   SQL
 -   Git
 
-
+==========================
 ## Software Support Analyst - Reddwerks
 ### August 2015 - Present
 Role required advanced troubleshooting of the software as well as the servers that it ran on.  Servers were both Windows and Linux and required management of the services and resources.  Occasionally scripts were created to help automate common tasks that the team did to manage the servers.  Built additional scripts to help with team time entry, automate tasks, and aggregate logs.
