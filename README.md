@@ -24,6 +24,7 @@
 ## Projects
 -   [LR](https://github.com/cmtzco/lr)
 -   [Zentime](https://github.com/cmtzco/zentime)
+
 ==========================
 ## Software Support Analyst - Reddwerks
 ### August 2015 - Present
