@@ -1,10 +1,6 @@
 # Christopher Martinez
 ----------------------
 
-#### (915)-217-4384
-#### chris@cmtz.co
-
-
 ## Previous Roles
 
 -   [Software Support Analyst](https://github.com/cmtzco/cmtzco#software-support-analyst---reddwerks)
