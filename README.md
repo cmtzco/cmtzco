@@ -3,6 +3,7 @@
 
 ## Previous Roles
 
+-   [Principal Software Engineer](https://github.com/cmtzco/cmtzco#principal-software-engineer---system9)		
 -   [Software Support Analyst](https://github.com/cmtzco/cmtzco#software-support-analyst---reddwerks)
 -   [Developer](https://github.com/cmtzco/cmtzco#developer---scriptilabs)
 -   [Software Support](https://github.com/cmtzco/cmtzco#software-support---bigcommerce)
@@ -12,18 +13,24 @@
 
 ## Skills
 
--   Linux Server Administration
--   Windows Server Administration
--   Serverless Applications
--   Python
--   NodeJS
--   BASH
--   REST 
--   SOAP
--   AWS
--   PHP
--   SQL
--   Git
+-	Linux Server Administration
+-	Windows Server Administration
+-	Serverless Applications
+-	API Integration(REST & SOAP)
+-	Grafana (Metrics Integration)
+-	Python 2/3
+-	Jenkins
+-	Bamboo
+-	Jira
+-	NodeJS
+-	SQL
+-	Git
+-	BASH
+-	Docker
+-	Ansible
+-	ChatOps
+-	VMWare
+-	AWS
 
 
 ## Projects
@@ -34,8 +41,13 @@
 
 
 ==========================
+## Principal Software Engineer - System9
+#### January 2018 - Present
+The role comprised of architecting the various applications that were being built.  This included determining infrastructure, technologies to be used, and determining scope of work.  This role also entailed interviewing and finding additional developers that were to be added to the team.  A huge focus of the applications were around trading (stocks, cryptocurrencies, etc.) and ensuring the applications were responsive and rapid.
+
+
 ## Software Support Analyst - Reddwerks
-#### August 2015 - Present
+#### August 2015 - January 2018
 This role required advanced troubleshooting of the software as well as the servers that it ran on.  Servers were both Windows and Linux and required management of the services and resources.  Devloped scripts to orchestrate common tasks across servers.  Integrated ChatOps bots to assist with server administration.  Built additional scripts to help the team with time entry, common tasks, and aggregate logs.
 
 
